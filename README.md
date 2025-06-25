@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 Currently, I am a final-year BCA student at Al Azhar College of Arts and Science.👯 I’m looking to collaborate on projects in the IT and web development field.🤝 I’m seeking opportunities to gain deeper insights into the tech industry.🌱 I’m currently exploring app development and enhancing my Python skills.
+👋 Hi, I'm Abin Biju — a BCA graduate passionate about building impactful digital solutions.
+🚀 Currently diving deep into Python Django + React full-stack development.
+💻 I enjoy creating scalable web applications and continuously exploring modern technologies.
+📚 Always learning, always building.
+
 
 
 ## 🌐 Socials:
